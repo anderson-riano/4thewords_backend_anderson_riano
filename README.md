@@ -1,5 +1,12 @@
 # Aplicacion hecha en con FastAPI y Uvicorn en un entorno venv
 
+## Base de datos mysql
+
+### el script .sql lo encontramos en
+[app/bd.sql](app/bd.sql)
+
+### Crear y activar el entorno virtual  (windows)
+
 ## Iniciar Proyecto
 
 #### Debemos previamente tener instalado el gesto pip
